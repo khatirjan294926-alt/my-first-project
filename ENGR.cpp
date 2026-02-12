@@ -27,7 +27,7 @@ ki pehchan nahi rahega. is se "compilation error" paida hoga.
 /*insertion operator(<<) error= to compiler syntax error dega 
 c++ mein cout aur variable ya text ke darmiyan yeh operator ek "raste" ka kaam karta hai. iske baghair computer ko
 samajh nahi aata ke data ko screen ki taraf kiasie bhejna hai */
-
+//xfhgdyshfdghvfytsdadxfutjljhutgxfaa
 
 
 
